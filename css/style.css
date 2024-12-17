@@ -1,0 +1,4079 @@
+
+
+
+
+ /* All Common Files Start */
+
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+ }
+
+
+
+
+
+ a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+ }
+
+  
+
+
+
+ ul,ol{
+    list-style-type: none;
+ }
+
+
+
+
+
+
+  h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+  }
+
+
+
+
+ /* All Common Files End */
+
+
+
+
+
+
+ /* First Header Part Start */
+
+
+
+
+
+
+   .nav-link {
+   font-size: 18px;
+   font-weight: 500;
+   color: #ffffff;
+   margin-left: 25px;
+   font-family: "DM Sans", sans-serif;
+   }
+
+
+
+
+
+
+   .nav-link:hover{
+   color: #F7D38A;
+   }
+  
+
+
+
+
+
+   .nav-link i{
+   color:#ffffff;   
+   }
+
+
+
+
+
+
+
+   .RegisterBtn{
+   padding: 12px 30px;
+   font-size: 18px;
+   font-weight: 500;
+   background: #43E7DF;
+   margin-left: 35px;
+   border-radius: 10px;
+   font-family: "DM Sans", sans-serif;
+   margin-top: -20px;
+   color: #2C2643;
+   }
+
+
+
+
+
+   .LoginBtn{
+   font-size: 18px;
+   font-weight: 500;
+   color: #ffffff;
+   margin-left: 35px;
+   margin-top: -18px;
+   }
+
+
+
+
+
+
+
+
+   .navbar{
+   position: fixed;
+   width: 100%;
+   top: 15px; left: 0px;
+   }
+
+
+
+
+ /* First Header Part End */
+ 
+
+
+
+
+ /* Second Header Part Start */
+
+
+
+
+
+
+  #SecondPart{
+  padding-top: 170px;
+  padding-bottom: 930px;
+  background: url(../images/BG\ Shape.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  }
+
+   
+
+
+
+
+
+
+
+
+  .SecondContent h3{
+  font-family: "Chivo", sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 70px;
+  padding-bottom: 45px;
+  margin-right: -30px;
+  margin-left: -20px;
+  }
+
+
+
+
+  .SecondContent p {
+  font-family: "DM Sans", serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 35px;
+  margin-left: 110px;
+  margin-right: 76px;
+  }
+
+
+
+
+
+
+  .SecondContentBox {
+  padding: 32px 0px;
+  background: #ffffff;
+  margin-top: 65px;
+  border-radius: 8px;
+  margin-left: 61px;
+  margin-right: 52px;
+  }
+
+    
+
+
+
+
+  .SecondContentBox p {
+  color: #B4B6C4;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Chivo", sans-serif;
+  margin-top: 0px;
+  margin-left: -305px;
+  }
+
+
+
+
+ .AnotherContentBox a {
+  padding: 15px 27px;
+  background: #43E7DF;
+  border-radius: 8px;
+  color: #2C2643;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  margin-bottom: 0px;
+  }
+
+
+
+
+
+  .AnotherContentBox {
+  margin-top: -69px;
+  margin-left: 350px;
+  }
+
+
+
+
+
+
+ /* Second Header Part End */
+
+
+
+
+ 
+ /* Third Header Part Start */
+
+
+
+
+
+
+  .ThreeUpwards{
+  margin-top: -720px;
+  margin-left: -200px;
+  }
+
+  
+
+  .ThreeUpwards img{
+  width: 200%;
+  }
+
+
+  .ThirdUpwardsImagePlot{
+  margin-top: -857px;
+  }
+  
+    
+  
+  .ThirdUpwardsImagePlot img {
+  width: 139%;
+  margin-left: 263px;
+}
+
+
+
+
+
+
+ /* Third Header Part End */
+
+
+
+
+
+
+ 
+ /* Fourth Header Part Start */
+
+
+
+ 
+
+ .FourthBoxLeft {
+  height: 160px; 
+  width: 315px;
+  background: white;
+  border-radius: 20px;
+  margin-top: -183px;
+  margin-left: -225px;
+  border: 1px solid #B4B6C4;
+  }
+
+
+
+
+
+
+  .LeftOne{
+  display: flex;
+  margin-top: 30px;
+  }
+
+
+
+
+
+
+  .One{
+  margin-top: -9px;
+  margin-left: 22px;
+  }
+
+
+
+
+
+  .One i{
+  color: #46474C;
+  font-size: 24px;
+  }
+
+
+
+
+
+
+
+  .Two p{
+  color: #46474C;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-top: -4px;
+  margin-left: 12px;
+  margin-right: -164px;
+  }
+
+     
+
+
+  .Three i{
+  color: #46474C;
+  font-size: 20px;
+  margin-right: 0px;
+  padding-left: 208px;
+  }
+     
+
+
+
+
+  .Three{
+  margin-top: -8px;
+  margin-left: 10px;
+  margin-right: 0px;
+  }
+
+
+
+
+  .LeftTwo{
+  display: flex;
+  margin-top: 20px;
+  margin-left: 22px;
+  }
+   
+
+
+
+     
+ .CircleOne i{
+  font-size: 30px;
+  color: #C4C4C4;
+ }
+
+
+
+     
+ .CircleTwo {
+  height: 35px;
+  width: 35px;
+  background: white;
+  border-radius: 50%;
+  margin-top: -3px;
+  margin-left: -9px;
+ }
+
+
+
+ .CircleTwoPart i {
+  font-size: 30px;
+  color: #C4C4C4;
+  margin-left: 6px;
+  margin-top: 3px;
+  } 
+
+
+     
+  .CircleThree {
+  height: 35px;
+  width: 35px;
+  background: white;
+  border-radius: 50%;
+  margin-top: -3px;
+  margin-left: -9px;
+  }
+  
+  
+  
+  .CircleThreePart i {
+  font-size: 30px;
+  color: #C4C4C4;
+  margin-left: 6px;
+  margin-top: 3px;
+  } 
+
+
+
+  .CircleFour {
+  height: 35px;
+  width: 35px;
+  background: white;
+  border-radius: 50%;
+  margin-top: -3px;
+  margin-left: -9px;
+  }
+     
+     
+     
+
+
+
+  .CircleFourPart i {
+  font-size: 30px;
+  color: #C4C4C4;
+  margin-left: 6px;
+  margin-top: 3px;
+  } 
+
+
+
+
+     
+  .CircleFive {
+  height: 35px;
+  width: 35px;
+  background: white;
+  border-radius: 50%;
+  margin-top: -3px;
+  margin-left: -9px;
+  }
+        
+        
+        
+
+
+  .CircleFivePart i {
+  font-size: 30px;
+  color: #C4C4C4;
+  margin-left: 6px;
+  margin-top: 3px;
+  } 
+
+
+
+
+
+
+  .LeftThree {
+  display: flex;
+  margin-top: 21px;
+  margin-left: 22px;
+ }
+
+
+
+
+
+
+
+  .Four i{
+  color: #46474C;
+  font-size: 20px;
+  }
+
+
+
+
+
+
+
+
+  .Five p{
+  color: #46474C;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif; 
+  margin-left: 10px; 
+  margin-top: 4px;  
+  }
+
+
+
+
+
+
+  .Marvel {
+  margin-top: 23px;
+  margin-left: 58px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  }
+
+
+  
+
+  .FourthBoxRight{
+  padding: 30px 208px;
+  background: white;
+  border-radius: 20px;
+  margin-top: -690px;
+  margin-left: 335px;
+  border: 1px solid #B4B6C4;
+  }
+
+
+
+   
+  .RightOne{
+  display: flex;
+  margin-top: 2px;
+  margin-left: -189px;
+  }
+
+
+  
+  .ToTwo{
+  margin-top: 7px;
+  margin-left: 20px;
+  }
+
+
+
+
+   
+  .ToTwo h3{
+  color:#323338;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Inter", serif;
+  padding-bottom: 21px;
+  margin-top: -4px;
+  margin-left: 0px;
+  }
+
+
+
+
+
+   
+  .ToTwo p{
+  color:#5B5C60;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Inter", serif;
+  }
+
+
+
+
+  .ToOne{
+ margin-top: -4px;
+ margin-left: 0px;
+  }
+
+
+
+  .ToOne i{
+  color: #C4C4C4;
+  font-size: 65px;
+  }
+  
+
+
+   
+
+  .RightCentre {
+  background: #E8ECEE;
+  height: 1px;
+  width: 416px;
+  margin-top: 28px;
+  margin-left: -208px;
+ }
+
+
+   
+  .RightTwo{
+  margin-top: 35px;
+  }
+
+
+
+
+  .TwoUp{
+  display: flex;
+  margin-left: -150px;
+  }
+
+
+
+
+  .TwoDown{
+  display: flex;
+  margin-left: -150px;
+  margin-top:20px;
+  }
+
+
+
+  .UpOne h3{
+  color:#323338;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-right: -160px;
+  }
+  
+
+
+
+  .UpTwo i{
+  font-size: 30px;
+  color: #43E7DF;
+  margin-top: -2px;
+  margin-left: 293px;
+  }
+
+
+
+
+
+
+  .DownOne h3{
+  color:#323338;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-right: -160px;
+  }
+    
+  
+  
+  
+  .DownTwo i{
+  font-size: 30px;
+  color: #E6E9EF;
+  margin-top: -2px;
+  margin-left: 293px;
+  }
+
+
+
+
+
+  .RightCentrePoint {
+  background: #E8ECEE;
+  height: 1px;
+  width: 416px;
+  margin-top: 22px;
+  margin-left: -208px;
+  }
+
+
+
+
+
+  .RightThree h3{
+  color:#323338;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-top: 25px;
+  padding-bottom: 32px;
+  margin-left: -147px;
+  }
+
+
+
+
+
+  .RightThree h4{
+  color:#323338;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-right: -80px;
+  margin-left: -147px;
+  }
+
+
+
+
+
+
+
+ /* Fourth Header Part End */
+
+
+
+
+
+
+ 
+ /* Fifth Header Part Start */
+
+
+
+
+  #FifthPart{
+  padding-top: 365px;
+  padding-bottom: 80px;
+  }
+  
+
+
+
+
+
+  .FifthOne h3{
+  color: #2C2643;
+  font-family: "Chivo", serif;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 55px;
+  margin-left: -50px;
+  }
+
+
+
+
+  .FifthTwo h3{
+  color: #645E76;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  margin-right: -190px;
+  line-height: 34px;
+  margin-left: 130px;
+  }
+
+
+
+
+
+
+  .FifthContentOne{
+  margin-top: 120px;
+  }
+
+
+
+
+
+  .FifthContentOne img{
+  width: 100%;
+  }
+
+
+
+
+
+  .FifthContentOne h3 {
+  font-size: 24px;
+  color: #2C2643;
+  font-family: "Chivo", serif;
+  font-weight: 700;
+  margin-right: -46px;
+  padding-bottom: 35px;
+  margin-top: 38px;
+  line-height: 35px;
+  margin-left: -50px;
+  }
+
+
+
+
+
+  .FifthContentOne p {
+  font-size: 20px;
+  color: #645E76;
+  font-family: "DM Sans", serif;
+  font-weight: 400;
+  margin-right: -71px;
+  line-height: 35px;
+  margin-left: -66px;
+  }
+
+
+
+   
+  .FifthImageOne img{
+  margin-top: 265px;
+  width: 100%;
+  }
+
+
+  /* -------------------------------------- */
+
+
+  .FifthContentTwo{
+  margin-top: 120px;
+  }
+  
+  
+
+
+
+  
+  .FifthContentTwo img{
+  width: 100%;
+  }
+  
+  
+  
+  
+  
+  .FifthContentTwo h3 {
+  font-size: 24px;
+  color: #2C2643;
+  font-family: "Chivo", serif;
+  font-weight: 700;
+  margin-right: -46px;
+  padding-bottom: 35px;
+  margin-top: 38px;
+  line-height: 35px;
+  margin-left: -50px;
+  }
+  
+  
+  
+  
+  
+  .FifthContentTwo p {
+  font-size: 20px;
+  color: #645E76;
+  font-family: "DM Sans", serif;
+  font-weight: 400;
+  margin-right: -67px;
+  line-height: 35px;
+  margin-left: -72px;
+  }
+  
+  
+  
+     
+  .FifthImageTwo img{
+  margin-top: 265px;
+  width: 100%;
+  }
+  
+  
+
+  /* -------------------------------------------- */
+
+
+
+    .FifthContentThree{
+    margin-top: 120px;
+    }
+    
+    
+    
+    
+    
+    .FifthContentThree img{
+    width: 100%;
+    }
+    
+    
+    
+    
+    
+    .FifthContentThree h3 {
+    font-size: 24px;
+    color: #2C2643;
+    font-family: "Chivo", serif;
+    font-weight: 700;
+    margin-right: -65px;
+    padding-bottom: 35px;
+    margin-top: 38px;
+    line-height: 35px;
+    margin-left: -65px;
+    }
+    
+    
+    
+    
+    
+    .FifthContentThree p {
+    font-size: 20px;
+    color: #645E76;
+    font-family: "DM Sans", serif;
+    font-weight: 400;
+    margin-right: -65px;
+    line-height: 32px;
+    margin-left: -46px;
+    }
+    
+    
+    
+       
+   
+ /* Fifth Header Part End */
+
+
+
+
+
+
+ 
+ /* Sixth Header Part Start */
+
+
+
+
+  #SixthPart{
+  padding-top: 35px;
+  padding-bottom: 80px;
+  }
+
+
+
+
+  .SixthImage img{
+  width: 130%;
+  margin-top: 246px;
+  margin-left: -210px;
+  }
+
+
+
+
+  .SixthAgain{
+  margin-top: 100px;
+  }
+
+
+
+
+
+
+  .SixthRightTop{
+  margin-top: -15px;
+  margin-left: 160px;
+  }
+
+
+
+
+
+
+  .SixthRightTop p{
+  font-family: "Chivo", serif;
+  font-size: 46px;
+  font-weight: 700;
+  color: #2C2643;
+  margin-right: -283px;
+  line-height: 50px;
+  }
+
+
+
+
+
+  .SixthMiddleOne{
+  margin-top: 75px;
+  margin-left: 160px;
+  }
+
+
+
+
+  .SixthMiddleOne img{
+  width: 70%;
+  } 
+
+
+
+
+  .SixthMiddleOne h3{
+  font-family: "Chivo", serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #2C2643;
+  padding-top: 45px;
+  padding-bottom: 40px;
+  margin-right: -165px;
+  }
+
+
+
+
+  .SixthMiddleOne p{
+  font-family: "DM Sans", serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #645E76;
+  margin-right: -175px;
+  line-height: 30px;
+  }
+
+
+
+
+
+
+
+
+  .SixthMiddleThree{
+  margin-top: 110px;
+  margin-left: 160px;
+  }
+  
+  
+  
+  
+  .SixthMiddleThree img{
+  width: 70%;
+  } 
+  
+  
+  
+  
+  .SixthMiddleThree h3{
+  font-family: "Chivo", serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #2C2643;
+  padding-top: 45px;
+  padding-bottom: 40px;
+  margin-right: -165px;
+  }
+  
+  
+  
+  
+  .SixthMiddleThree p{
+  font-family: "DM Sans", serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #645E76;
+  margin-right: -175px;
+  line-height: 30px;
+  }
+  
+
+
+
+  
+
+  .SixthMiddleTwo{
+  margin-top: 75px;
+  margin-left: 160px;
+  }
+    
+    
+    
+    
+  .SixthMiddleTwo img{
+  width: 70%;
+  margin-left: 65px;
+  } 
+    
+    
+    
+    
+  .SixthMiddleTwo h3{
+  font-family: "Chivo", serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #2C2643;
+  padding-top: 52px;
+  padding-bottom: 40px;
+  margin-right: -165px;
+  margin-left: 55px;
+  }
+    
+    
+    
+    
+  .SixthMiddleTwo p{
+  font-family: "DM Sans", serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #645E76;
+  margin-right: -175px;
+  line-height: 30px;
+  margin-left: 55px;
+  }
+    
+
+  
+
+  .SixthExtraImage{
+  margin-top: -50px;
+  margin-left: 14px;
+  }
+
+
+
+  
+  .SixthExtraImage img{
+  width: 50%;
+  }
+
+
+
+  
+  .SixthLastText{
+  height: 80px;
+  width: 200px;
+  background: #3639A4;
+  margin-top: 250px;
+  margin-left: 220px;
+  border-radius: 10px;
+  }
+
+
+
+
+  .SixthLastText h3{
+  font-family: "DM Sans", serif;
+  font-size: 22px;
+  font-weight: 500;
+  color: #ffffff;
+  padding-top: 31px;
+  margin-left: 40px;
+  }
+
+
+
+
+  .SixthBoxOne{
+  background:#F4F4F4;
+  height: 900px;
+  width: 533px;
+  border-radius: 10px;
+  margin-top: -970px;
+  margin-left: -23px;
+  }
+
+
+  
+  .SixthBoxOne img{
+  width: 104.5%;
+  margin-left: -12px;
+  height: 4%;
+  } 
+
+
+
+
+
+
+
+  .LeftBoxOne{
+  display: flex;
+  margin-top: 96px;
+  }
+
+
+
+
+  .BoxUpperPart h3{
+  font-family: "Inter", serif;
+  color: #46474C;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 280px;
+  margin-left: 30px;
+  }
+
+
+
+
+  .UpperPartOne i{
+  color: #848588;
+  font-size: 20px;
+  margin-left: 171px;
+  margin-top: 278px;
+  }
+
+
+
+
+  .BoxUpperIcon i{
+  color: #848588;
+  font-size: 5px;
+  margin-top: 286px;
+  }
+  
+
+
+  .BoxUpperIcon{
+  margin-left: 22px;
+  }
+
+
+
+
+
+
+  .LeftBoxTwo{
+  background:#E6E9EF;
+  height: 180px;
+  width: 350px;
+ border-radius: 20px;
+ margin-top: 20px;
+ margin-left: 26px;
+  }
+
+
+
+  .BoxMiddleOne{
+  display: flex;
+  padding-top: 30px;
+  margin-left: 20px;
+  }
+
+
+
+
+
+  .MiddleText h3{
+  color: #323338;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: "Inter", serif;
+  padding-top: 0px;
+  margin-left: 19px;
+  margin-right: 0px;
+  }
+
+
+
+
+  .MiddleBox{
+  margin-top: -5px;
+  margin-left: -0px;
+  }
+
+
+  .MiddleBox i{
+  color: #BDBDBD;
+  font-size: 20px;
+  }
+
+
+
+
+
+ .MiddleIcons{
+ margin-top: -10px;
+ margin-left: 18px;
+ }
+
+
+ .MiddleIcons i{
+  color: #848588;
+  font-size: 5px;
+ }
+
+
+
+
+
+  .BoxMiddleTwo{
+  display: flex;
+  }
+
+
+
+
+  .SpanOne{
+  height: 30px;
+  width: 70px;
+  border-radius: 30px;
+  background:#2290F5;
+  margin-top: 18px;
+  margin-left: 15px;
+  }
+
+
+
+ .SpanText h3{
+ font-size: 14px;
+ font-weight: 400;
+ font-family: "Inter", serif;
+ color: #ffffff;
+ margin-top: 9px;
+ margin-left: 18px;
+ }
+
+
+
+
+
+
+ 
+ .SpanTwo{
+  height: 30px;
+  width: 70px;
+  border-radius: 30px;
+  background:#FF7364;
+  margin-top: 18px;
+  margin-left: 30px;
+  }
+
+
+
+
+  .SpanFlex{
+  display: flex;
+  }
+
+
+
+
+  .SpanFlex h3{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  color: #ffffff;
+  margin-top: 9px;
+  margin-left: 18px;
+  }
+
+
+
+
+
+
+  .FlexTwo{
+ margin-top: 2px;
+ margin-left: 10px;
+  }
+
+
+
+
+
+
+  .FlexTwo i{
+  color: #ffffff;
+  font-size: 14px;
+  }
+
+
+
+
+
+ .MiddleBar{
+  height: 22px;
+  width: 70px;
+  border-radius: 40px;
+  background: white;
+  margin-top: 4px;
+ margin-left: 76px;
+ }
+
+
+
+
+  .BarText{
+ margin-top: 3px;
+ margin-left: 13px;
+  }
+
+
+
+  .BarText p{
+  color: #5B5C60;
+  font-size: 20px;
+  font-family: "Inter", serif;
+  font-weight: 400;
+  }
+
+
+
+
+ .BoxMiddleThree{
+ display: flex;
+ margin-top: 25px;
+ }
+
+
+
+
+ .MiddleLast{
+ margin-left: 16px;
+ }
+
+
+
+
+ .MiddleLast i{
+  color: #C4C4C4;
+  font-size: 35px;
+ }
+
+ 
+
+
+ .MiddleOne{
+  margin-top: 9px;
+  margin-left: 16px;
+ }
+
+
+
+ .MiddleOne p{
+  font-size: 18px;
+  font-family: "Inter", serif;
+  font-weight: 400;
+  color:#46474C ;
+ }
+
+
+
+ .BarImage {
+  margin-left: 28px;
+  } 
+
+
+
+
+  .BarImage img {
+  width: 450%;
+  height: 100%;
+  margin-top: -4px;
+  }
+
+
+
+
+
+  .LeftBoxOneDown{
+  display: flex;
+  margin-top: -260px;
+  }
+  
+  
+  
+  
+  .BoxUpperPart h3{
+  font-family: "Inter", serif;
+  color: #46474C;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 280px;
+  margin-left: 30px;
+  }
+  
+  
+  
+  
+  .UpperPartOne i{
+  color: #848588;
+  font-size: 20px;
+  margin-left: 171px;
+  margin-top: 278px;
+  }
+  
+  
+  
+  
+  .BoxUpperIcon i{
+  color: #848588;
+  font-size: 5px;
+  margin-top: 286px;
+  }
+    
+  
+  
+  .BoxUpperIcon{
+  margin-left: 22px;
+  }
+  
+
+
+
+
+  .WhiteBoxOne {
+  background: #ffff;
+  height: 260px;
+  width: 308px;
+  border-radius: 10px;
+  margin-top: -780px;
+  margin-left: 368px;
+  border: 1px solid #43E7DF;
+  }
+
+
+
+
+  .WhiteBoxOne h3{
+  font-size: 20px;
+  color: #323338;
+  font-family: "Inter", serif;
+  font-weight: 600;
+  padding-top: 38px;
+  margin-left: 55px;
+  }
+
+
+  
+
+  .WhiteBoxOne img{
+  margin-top: 27px;
+  margin-left: 34px;
+  }
+
+
+
+   
+
+  
+  .WhiteBoxTwo {
+  background: #ffff;
+  height: 276px;
+  width: 308px;
+  border-radius: 10px;
+  margin-top: -495px;
+  margin-left: 368px;
+  border: 1px solid #43E7DF;
+  }
+  
+  
+
+
+  
+  .WhiteBoxTwo i{
+  font-size: 70px;
+  color: #3639A4;
+  margin-top: 28px;
+  margin-left: 117px;
+  }
+
+
+
+
+
+
+  
+  .WhiteBoxTwo h3{
+  font-size: 20px;
+  color: #323338;
+  font-family: "Inter", serif;
+  font-weight: 600;
+  padding-top: 27px;
+  margin-left: 55px;
+  margin-right: 0px;
+  line-height: 30px;
+  }
+  
+  
+    
+  
+  .GreenBox {
+  height: 49px;
+  width: 164px;
+  background: #43E7DF;
+  margin-top: -13px;
+  margin-left: 16px;
+  border-radius: 12px;
+  }
+
+
+
+  
+
+  .GreenBox h3{
+  font-size: 20px;
+  color: #323338;
+  font-family: "Inter", serif;
+  font-weight: 500;
+  padding-top: 6px;
+  margin-left: 20px;
+  margin-right: -32px;
+  }
+    
+
+   
+
+
+
+  .WhiteBoxThree {
+  background: #ffff;
+  height: 200px;
+  width: 542px;
+  border-radius: 10px;
+  margin-top: -888px;
+  margin-left: -245px;
+  border: 1px solid #43E7DF;
+  }
+
+
+   
+
+  .BoxThreeOne{
+  display: flex;
+  }
+
+
+
+
+
+
+  .HectorOne{
+  margin-top: 30px;
+  margin-left: 40px;
+  }
+
+
+
+
+
+  .HectorOne h3{
+  color: #323338;
+  font-weight: 600;
+  font-family: "Inter", serif;
+  font-size: 25px;
+  padding-bottom: 35px;
+  }
+
+
+
+
+  .HectorOne p{
+  color: #323338;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  font-size: 40px;
+  }
+
+
+
+
+
+  .HectorThree{
+  display: flex;
+  margin-top: 35px;
+  }
+
+
+
+
+  .HectorIcon{
+  margin-left: 0px;
+  margin-top: 0px;
+  }
+
+
+
+
+  .HectorIcon i{
+  color: #FF7364;
+  font-size: 30px;
+  }
+
+
+   
+  .HectorText h3{
+  color: #FF7364;
+  font-weight: 400;
+  font-family: "Chivo", serif;
+  font-size: 20px;
+  margin-left: 30px;
+  }
+
+
+
+ 
+   
+
+  .HectorCircleBox {
+  height: 48px;
+  width: 48px;
+  background: white;
+  border-radius: 50%;
+  margin-top: 134px;
+  margin-left: -75px;
+  }
+  
+
+
+
+
+
+  .HectorCircleOne{
+  margin-left: 3px;
+  }
+
+
+
+
+
+  .HectorCircleOne i{
+  color: #C4C4C4;
+  font-size: 40px;
+  margin-top: 3px;
+  }
+
+
+
+
+  .HectorTwo {
+  margin-top: 137px;
+  margin-left: 215px;
+  }
+
+
+
+
+
+  .HectorTwo i{
+  color: #C4C4C4;
+  font-size: 40px;
+  }
+
+
+
+
+ /* Sixth Header Part End */
+
+
+
+
+
+
+ 
+ /* Seven Header Part Start */
+
+
+
+  #SevenPart{
+  padding-top: 70px;
+  padding-bottom: 100px;
+  background: #F4FAFA;
+  }
+
+
+
+  
+
+  .SeventhContent{
+  margin-top: 100px;
+  }
+
+
+
+
+
+  .SeventhContent h3{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #FF7364;
+  padding-bottom: 45px;
+  }
+
+
+
+
+
+  .SeventhContent h2{
+  font-size: 46px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #2C2643;
+  padding-bottom: 47px;
+  margin-right: -60px;
+  line-height: 65px;
+  }
+
+
+
+
+
+
+  .SeventhContent p{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #645E76;
+  margin-right: -75px;
+  line-height: 35px;
+  }
+
+
+
+
+  .SeventhPurple {
+  height: 75px;
+  width: 250px;
+  border-radius: 15px;
+  background: #3639A4;
+  margin-top: 64px;
+  margin-left: 0px;
+  }
+
+
+   
+
+    
+  .SeventhPurple h3{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #ffffff;
+  padding-top: 26px;
+  margin-left: 64px;
+  }
+
+
+
+   .SeventhContent img{
+   width: 40%;
+   margin-left: -200px;
+   margin-top: 25px;
+   }
+
+
+
+
+
+   .SeventhBigCircle{
+   margin-top: 60px;
+   }
+
+
+
+   .SeventhBigCircle img{
+   width: 100%;
+   margin-left: 430px;
+   }
+
+
+
+   .SeventhMiddleCircle{
+   margin-top: -580px;
+   }
+   
+   
+   
+   .SeventhMiddleCircle img {
+   width: 85%;
+   margin-left: 478px;
+  }
+
+
+
+
+  
+  .SeventhSmallCircle{
+  margin-top: -488px;
+  }
+   
+   
+   
+  .SeventhSmallCircle img {
+  width: 70%;
+  margin-left: 525px;
+  }
+
+
+
+  .SeventhBoxOne {
+  height: 150px;
+  width: 380px;
+  background: #ffffff;
+  border-radius: 15px;
+  margin-top: -763px;
+  margin-left: 904px;
+  border: 1px solid #43E7DF;
+  }
+
+
+
+
+
+   .SeventhBoxOne img{
+   width: 60%;
+   margin-top: 44px;
+   margin-left: 65px;
+   }
+
+
+
+
+   .SeventhBoxTwo {
+   height: 150px;
+   width: 380px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -763px;
+   margin-left: 1000px;
+   border: 1px solid #43E7DF;
+   }
+   
+   
+   
+   
+   
+   .SeventhBoxTwo img{
+   width: 60%;
+   margin-top: 39px;
+   margin-left: 76px;
+   }
+  
+   
+
+   
+
+   .SeventhBoxThree {
+   height: 150px;
+   width: 190px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -570px;
+   margin-left: 905px;
+   border: 1px solid #43E7DF;
+  }
+      
+
+
+
+  .SeventhBoxThree img{
+   width: 60%;
+   margin-top: 43px;
+   margin-left: 39px;
+   }
+
+
+
+    
+
+
+   .SeventhBoxFour {
+   height: 150px;
+   width: 380px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -570px;
+   margin-left: 952px;
+   border: 1px solid #43E7DF;
+   }
+      
+      
+      
+      
+      
+   .SeventhBoxFour img{
+   width: 60%;
+   margin-top: 48px;
+   margin-left: 66px;
+   }
+
+
+
+
+
+   .SeventhBoxFive {
+   height: 150px;
+   width: 190px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -570px;
+   margin-left: 1026px;
+   border: 1px solid #43E7DF;
+   }
+         
+   
+   
+   
+   .SeventhBoxFive img{
+   width: 60%;
+   margin-top: 17px;
+   margin-left: 39px;
+   }
+
+
+
+
+
+   .SeventhBoxSix {
+   height: 150px;
+   width: 322px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -383px;
+   margin-left: 903px;
+   border: 1px solid #43E7DF;
+   }
+         
+         
+         
+         
+         
+   .SeventhBoxSix img{
+   width: 82%;
+   margin-top: 45px;
+   margin-left: 29px;
+   }
+
+
+
+
+
+   .SeventhBoxSeven {
+   height: 150px;
+   width: 190px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -383px;
+   margin-left: 981px;
+   border: 1px solid #43E7DF;
+   }
+            
+      
+      
+      
+   .SeventhBoxSeven img{
+   width: 60%;
+   margin-top: 15px;
+   margin-left: 39px;
+   }
+
+
+
+
+
+
+   .SeventhBoxEight {
+   height: 150px;
+   width: 240px;
+   background: #ffffff;
+   border-radius: 15px;
+   margin-top: -384px;
+   margin-left: 1031px;
+   border: 1px solid #43E7DF;
+   }
+               
+         
+         
+         
+   .SeventhBoxEight img{
+   width: 80%;
+   margin-top: 51px;
+   margin-left: 31px;
+   }
+
+
+
+
+ /* Seven Header Part End */
+
+
+
+
+
+
+
+ 
+ /* Eigth Header Part Start */
+
+
+
+  #EightPart{
+  padding-top: 60px;
+  padding-bottom: 90px;
+  }
+ 
+ 
+
+
+   .EightUpperPart{
+   margin-top: 140px;
+   margin-left: -20px;
+   }
+   
+
+
+
+   .EightUpperPart h3{
+   font-family: "DM Sans", serif;
+   font-size: 22px;
+   font-weight: 500;
+   color: #FF7364;
+   padding-bottom: 30px;
+   }
+   
+
+
+
+
+   .EightUpperPart h4{
+   font-family: "Chivo", serif;
+   font-size: 46px;
+   font-weight: 700;
+   color: #2C2643;
+   margin-left: -17px;
+   margin-right: -33px;
+   }
+   
+
+
+
+
+   .EightBoxOne {
+   height: 424px;
+   width: 370px;
+   background: #ffffff;
+   margin-top: 131px;
+   margin-left: -186px;
+   border-radius: 20px;
+   border: 1px solid #DCE7FE;
+  }
+
+
+
+
+
+
+
+   
+  .EightBoxOne i {
+   color: #ff736465;
+   font-size: 100px;
+   margin-top: 40px;
+   margin-left: 50px;
+  }
+
+
+
+
+   .EightFirstImage{
+   margin-top: -445px;
+   margin-left: 0px;
+   }
+
+
+
+
+   .EightFirstImage img{
+   width: 20%;
+   margin-top: 85px;
+   margin-left: -117px;
+   }
+
+
+
+
+   .BoxOneLast{
+   display: flex;
+   }
+
+
+
+
+
+   .EightBoxOne h3{
+   font-size: 24px;
+   font-weight: 700;
+   font-family: "Chivo", serif;
+   color: #2C2643;
+   padding-top: 50px;
+   padding-bottom: 35px;
+   margin-right: 0px;
+   margin-left: 48px;
+   }
+
+
+
+
+   .EightBoxOne p{
+   font-size: 18px;
+   font-weight: 400;
+   font-family: "DM Sans", serif;
+   color: #645E76;
+   margin-right: 50px;
+   line-height: 32px;
+   padding-top: 0px;
+   margin-left: 45px;
+   }
+
+
+
+
+
+   .BoxOneLast{
+   margin-top: 250px;
+   margin-left: -142px;
+   }
+
+
+
+
+
+   .BoxOneLast h3{
+   font-size: 18px;
+   font-weight: 500;
+   font-family: "DM Sans", serif;
+   color: #3639A4;
+   }
+
+
+
+
+
+
+   .BoxOneLast i{
+   color: #3639A4;
+   margin-top: -5px;
+   margin-left: 36px;
+   font-size: 25px;
+   }
+
+
+
+
+
+
+
+
+   .EightBoxTwo {
+   height: 424px;
+   width: 370px;
+   background: #3639A4;
+   margin-top: 131px;
+   margin-left: -111px;
+   border-radius: 20px;
+   border: 1px solid #DCE7FE;
+   }
+   
+   
+   
+   
+   
+   
+   
+      
+   .EightBoxTwo i {
+   color: #ffffff;
+   font-size: 100px;
+   margin-top: 40px;
+   margin-left: 50px;
+   }
+
+
+
+
+
+
+
+   .EightBoxTwo h3{
+   font-size: 24px;
+   font-weight: 700;
+   font-family: "Chivo", serif;
+   color: #ffffff;
+   padding-top: 50px;
+   padding-bottom: 35px;
+   margin-right: 0px;
+   margin-left: 48px;
+   }
+   
+   
+
+
+
+   
+   
+   .EightBoxTwo p{
+   font-size: 18px;
+   font-weight: 400;
+   font-family: "DM Sans", serif;
+   color: #ffffff;
+   margin-right: 50px;
+   line-height: 32px;
+   padding-top: 0px;
+   margin-left: 45px;
+   }
+   
+
+
+
+
+
+
+  
+   .EightSecondImage{
+   margin-top: -445px;
+   margin-left: 0px;
+   }
+   
+   
+   
+
+
+
+   
+   .EightSecondImage img{
+   width: 20%;
+   margin-top: 83px;
+   margin-left: -36px;
+   }
+   
+   
+   
+
+
+
+   .BoxTwoLast{
+   display: flex;
+   margin-top: 250px;
+   margin-left: -64px;
+   }
+      
+
+
+      
+      
+      
+      
+      
+   .BoxTwoLast h3{
+   font-size: 18px;
+   font-weight: 500;
+   font-family: "DM Sans", serif;
+   color: #ffffff;
+   }
+      
+      
+      
+      
+      
+      
+   .BoxTwoLast i{
+   color: #ffffff;
+   margin-top: -5px;
+   margin-left: 36px;
+   font-size: 25px;
+   }
+
+
+
+
+
+
+
+
+   .EightBoxThree {
+   height: 424px;
+   width: 370px;
+   background: #ffffff;
+   margin-top: 131px;
+   margin-left: -42px;
+   border-radius: 20px;
+   border: 1px solid #DCE7FE;
+   }
+      
+      
+      
+      
+      
+      
+      
+         
+   .EightBoxThree i {
+   color: #28ae624d;
+   font-size: 100px;
+   margin-top: 40px;
+   margin-left: 50px;
+   }
+   
+   
+   
+   
+   
+   
+   
+   .EightBoxThree h3{
+   font-size: 24px;
+   font-weight: 700;
+   font-family: "Chivo", serif;
+   color: #2C2643;
+   padding-top: 50px;
+   padding-bottom: 35px;
+   margin-right: 0px;
+   margin-left: 45px;
+   }
+      
+      
+   
+   
+   
+      
+      
+   .EightBoxThree p{
+   font-size: 18px;
+   font-weight: 400;
+   font-family: "DM Sans", serif;
+   color: #645E76;
+   margin-right: 35px;
+   line-height: 32px;
+   padding-top: 0px;
+   margin-left: 45px;
+   }
+      
+   
+   
+   
+   
+   
+   
+     
+   .EightThirdImage{
+   margin-top: -445px;
+   margin-left: 0px;
+   }
+      
+      
+      
+   
+   
+   
+      
+   .EightThirdImage img{
+   width: 20%;
+   margin-top: 85px;
+   margin-left: 28px;
+   }
+      
+      
+      
+   
+   
+   
+   .BoxThreeLast{
+   display: flex;
+   margin-top: 250px;
+   margin-left: 5px;
+   }
+         
+   
+   
+         
+         
+         
+         
+         
+   .BoxThreeLast h3{
+   font-size: 18px;
+   font-weight: 500;
+   font-family: "DM Sans", serif;
+   color: #3639A4;
+   }
+         
+         
+         
+         
+         
+         
+   .BoxThreeLast i{
+   color: #3639A4;
+   margin-top: -5px;
+   margin-left: 36px;
+   font-size: 25px;
+   }
+   
+   
+   
+
+
+
+
+
+
+
+   .EightBoxFour {
+   height: 424px;
+   width: 370px;
+   background: #ffffff;
+   margin-top: 131px;
+   margin-left: 38px;
+   border-radius: 20px;
+   border: 1px solid #DCE7FE;
+   }
+         
+         
+         
+         
+         
+         
+         
+            
+   .EightBoxFour i {
+   color: #228ff559;
+   font-size: 100px;
+   margin-top: 40px;
+   margin-left: 50px;
+   }
+      
+      
+      
+      
+      
+      
+      
+   .EightBoxFour h3{
+   font-size: 24px;
+   font-weight: 700;
+   font-family: "Chivo", serif;
+   color: #2C2643;
+   padding-top: 50px;
+   padding-bottom: 35px;
+   margin-right: 0px;
+   margin-left: 45px;
+   }
+         
+         
+      
+      
+      
+         
+         
+   .EightBoxFour p{
+   font-size: 18px;
+   font-weight: 400;
+   font-family: "DM Sans", serif;
+   color: #645E76;
+   margin-right: 20px;
+   line-height: 32px;
+   padding-top: 0px;
+   margin-left: 45px;
+   }
+         
+      
+      
+      
+      
+      
+      
+        
+   .EightFourImage{
+   margin-top: -445px;
+   margin-left: 0px;
+   }
+         
+         
+         
+      
+      
+      
+         
+   .EightFourImage img{
+   width: 20%;
+   margin-top: 80px;
+   margin-left: 111px;
+   }
+         
+         
+         
+      
+      
+      
+   .BoxFourLast{
+   display: flex;
+   margin-top: 254px;
+   margin-left: 84px;
+   }
+            
+      
+      
+            
+            
+            
+            
+            
+   .BoxFourLast h3{
+   font-size: 18px;
+   font-weight: 500;
+   font-family: "DM Sans", serif;
+   color: #3639A4;
+   }
+            
+            
+            
+            
+            
+            
+   .BoxFourLast i{
+   color: #3639A4;
+   margin-top: -5px;
+   margin-left: 36px;
+   font-size: 25px;
+   }
+      
+
+
+
+
+
+   .EightLastPart {
+   height: 78px;
+   width: 250px;
+   background: #ffffff;
+   border: 1px solid #3639A4;
+   margin-left: 215px;
+   margin-top: 145px;
+   border-radius: 12px;
+  }
+
+
+
+
+
+  .EightLastPart h3{
+  color: #3639A4;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  margin-top: 26px;
+  margin-left: 0px;
+  }
+
+
+
+
+
+
+
+ /* Eigth Header Part End */
+
+
+
+
+
+
+ 
+ /* Ninth Header Part Start */
+
+
+
+
+  #NinthPart{
+   padding-top: 70px;
+   padding-bottom: 90px;
+  }
+
+
+
+
+
+  
+  .NinthBox {
+   height: 435px;
+   width: 1330px;
+   background: #3639A4;
+   margin-top: 0px;
+   margin-left: -28px;
+   border-radius: 40px;
+   margin-right: 0px;
+ }
+  
+  
+  
+  
+  
+
+
+
+
+  .NinthFirstImage img{
+ width: 202%;
+  }
+
+
+
+
+ .NinthSecondImage{
+ margin-top: -377px;
+ 
+ }
+
+
+
+
+
+ .NinthSecondImage img{
+ width: 92%;
+ margin-left: 35px;
+ }
+
+
+
+
+  
+
+ .NinthFirstContent{
+  margin-top: 70px;
+  margin-left: 0px;
+ }
+
+
+
+
+
+
+
+ .NinthFirstContent h3{
+  font-size: 45px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  line-height: 50px;
+ }
+
+
+
+
+
+
+ .NinthSecondContent{
+  margin-top: 60px;
+ }
+
+
+
+
+
+ .NinthSecondContent h3{
+  font-size: 45px;
+  font-weight: 900;
+  font-family: "Chivo", serif;
+  padding-bottom: 40px;
+  color: white;
+ }
+
+
+
+
+
+ .NinthSecondContent p{
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  line-height: 30px;
+  color: rgba(255, 255, 255, 0.411);
+ }
+
+
+
+
+
+ /* Ninth Header Part End */
+
+
+
+
+
+ 
+ /* Tenth Header Part Start */
+
+
+
+
+  #TenthPart{
+  padding-top: 60px;
+  padding-bottom: 90px;
+  }
+ 
+
+
+
+  .TenthUpperPart{
+  margin-top: 50px;
+  margin-left: 32px;
+  }
+
+
+
+
+
+  .TenthUpperPart h3{
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #2C2643;
+  line-height: 60px;
+  margin-right: -74px;
+  }
+
+
+
+
+
+  .TenthUpperWay{
+  display: flex;
+  margin-top: 45px;
+  margin-left: 200px;
+  }
+
+
+
+  .UpperWayOne h3{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #3639A4;
+  margin-left: -91px;
+  }
+
+
+
+
+  .UpperWayTwo {
+  height: 41px;
+  width: 129px;
+  border-radius: 43px;
+  margin-top: -8px;
+  margin-left: 38px;
+  background: #3639A4;
+  }
+
+
+
+
+  .UpperWayTwo i {
+  color: white;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-left: -80px;
+  }
+
+
+
+
+ .UpperWayThree h3 {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #645E76;
+  margin-left: 30px;
+  margin-top: -2px;
+  }
+
+
+
+   
+  .TenthBoxOne {
+  height: 980px;
+  width: 480px;
+  background: #ffffff;
+  border: 1px solid #43E7DF;
+  border-radius: 12px;
+  margin-top: 110px;
+  margin-left: -80px;
+}
+
+
+
+
+
+ 
+
+
+
+  .TenthCircleOne i {
+  font-size: 110px;
+  color: #E8F2FA;
+  margin-top: 45px;
+  margin-left: 198px;
+  }
+
+
+
+ 
+
+
+
+  .TenthCircleImage img {
+  width: 15%;
+  margin-top: -147px;
+  margin-left: 218px;
+}
+
+
+  
+
+
+ .TenthBoxText {
+ margin-top: 26px;
+ margin-left: 137px;
+ }
+
+
+
+ .TenthBoxText h3 {
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #3639A4;
+  margin-top: 0px;
+  margin-left: 59px;
+  padding-bottom: 25px;
+ }
+
+
+
+ .TenthBoxText h2 {
+  font-size: 45px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #2C2643;
+  margin-top: 0px;
+  margin-left: 13px;
+  padding-bottom: 35px;
+ }
+
+
+
+
+
+ .TenthBoxText p {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #645E76;
+  margin-top: 0px;
+  margin-left: -20px;
+  }
+
+
+
+
+  .TenthBoxText h4 {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "Chivo", serif;
+  color: #3639A4;
+  margin-top: -19px;
+  margin-left: 132px;
+  }
+
+
+
+
+  .TenthTickCross{
+  display: flex;
+  }
+
+
+
+
+
+  .TenthCircleTickOne i {
+  font-size: 45px;
+  color: #F4EBFF;
+  margin-top: 81px;
+  margin-left: 30px;
+  }
+
+
+  
+
+  .CircleTickOne i {
+  font-size: 25px;
+  color: #3639A4;
+  margin-left: 40px;
+  }
+
+
+
+
+  .CircleTickOne{
+  margin-top: -115px;
+  }
+
+
+
+ 
+
+
+
+  .TenthTickRight h3{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #645E76;
+  margin-top: 90px;
+  margin-left: 40px;
+  }
+
+
+
+
+
+  .TenthTickCrossTwo{
+  display: flex;
+  margin-top: -45px;
+  }
+
+
+
+
+  .TenthBoxLast {
+  height: 100px;
+  width: 390px;
+  background: #3639A4;
+  border-radius: 12px;
+  margin-top: 77px;
+  margin-left: 33px;
+  }
+
+
+
+  .TenthBoxLast h3{
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #ffffff;
+  padding-top: 35px;
+  margin-left: 110px;
+  }
+
+
+
+
+  .TenthBoxTwo {
+  height: 980px;
+  width: 480px;
+  background: #3639A4;
+  border: 1px solid #43E7DF;
+  border-radius: 12px;
+  margin-top: 110px;
+  margin-left: 25px;
+  }
+
+
+
+
+  .TenthCircleTwo i {
+  font-size: 110px;
+  color: #ffffff;
+  margin-top: 45px;
+  margin-left: 198px;
+  }
+
+
+
+  .TenthBoxTextNext {
+  margin-top: 26px;
+  margin-left: 137px;
+  }
+     
+     
+     
+  .TenthBoxTextNext h3 {
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #43E7DF;
+  margin-top: 0px;
+  margin-left: 79px;
+  padding-bottom: 25px;
+  }
+     
+     
+     
+  .TenthBoxTextNext h2 {
+  font-size: 45px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-left: 13px;
+  padding-bottom: 35px;
+  }
+     
+     
+     
+     
+     
+  .TenthBoxTextNext p {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #ffffff;
+  margin-top: 0px;
+  margin-left: -20px;
+  }
+     
+     
+     
+     
+  .TenthBoxTextNext h4 {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "Chivo", serif;
+  color: #43E7DF;
+  margin-top: -19px;
+  margin-left: 132px;
+  }
+     
+     
+     
+
+  .TenthTickRightOne h3{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #ffffff;
+  margin-top: 90px;
+  margin-left: 40px;
+  }
+
+
+
+
+
+  .TenthBoxLastOne {
+  height: 91px;
+  width: 394px;
+  background: #43E7DF;
+  border-radius: 12px;
+  margin-top: 81px;
+  margin-left: 33px;
+  }
+  
+  
+  
+  .TenthBoxLastOne h3{
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #2C2643;
+  padding-top: 34px;
+  margin-left: 110px;
+  }
+
+    
+
+  .TenthBoxThree {
+  height: 980px;
+  width: 480px;
+  background: #ffffff;
+  border: 1px solid #43E7DF;
+  border-radius: 12px;
+  margin-top: 110px;
+  margin-left: 140px;
+  }
+
+
+ 
+
+  .TenthCircleThree i {
+  font-size: 110px;
+  color: #ECE8F9;
+  margin-top: 45px;
+  margin-left: 198px;
+  }
+
+
+
+  .TenthBoxTextRight {
+  margin-top: 26px;
+  margin-left: 137px;
+  }
+       
+       
+       
+  .TenthBoxTextRight h3 {
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #3639A4;
+  margin-top: 0px;
+  margin-left: 47px;
+  padding-bottom: 25px;
+  }
+       
+       
+       
+  .TenthBoxTextRight h2 {
+  font-size: 45px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #2C2643;
+  margin-top: 0px;
+  margin-left: 13px;
+  padding-bottom: 35px;
+  }
+       
+       
+       
+       
+       
+  .TenthBoxTextRight p {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  color: #645E76;
+  margin-top: 0px;
+  margin-left: -20px;
+  }
+       
+       
+       
+       
+  .TenthBoxTextRight h4 {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: "Chivo", serif;
+  color: #3639A4;
+  margin-top: -19px;
+  margin-left: 132px;
+  }
+
+
+
+
+
+ /* Tenth Header Part End */
+
+
+
+
+ 
+ 
+ /* Second Last Header Part Start */
+
+
+
+
+  #SecondLastPart{
+  padding-top: 60px;
+  padding-bottom: 105px;
+  background: #F4FAFA;
+  }
+
+ 
+
+ .TenthUpperContext{
+  margin-top: 150px;
+  margin-left: 0px;
+ }
+
+
+
+
+ .TenthUpperContext h3{
+  font-size: 46px;
+  font-weight: 700;
+  color: #2C2643;
+  font-family: "Chivo", serif;
+  padding-top: 0px;
+  padding-bottom: 65px;
+  margin-left: 0px;
+  line-height: 50px;
+ }
+
+
+
+ .TenthUpperContext p{
+  font-size: 20px;
+  font-weight: 400;
+  color: #645E76;
+  font-family: "DM Sans", serif;
+  margin-right: -40px;
+  line-height: 35px;
+ }
+
+
+
+
+ .TenthMiddleContext {
+  height: 80px;
+  width: 270px;
+  background: #3639A4;
+  border-radius: 12px;
+  margin-top: 90px;
+  margin-left: 0px;
+  }
+ 
+
+
+
+  .TenthMiddleContext h3{
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+  font-family: "DM Sans", serif;
+  padding-top: 33px;
+  margin-left: 75px;
+  }
+
+
+
+
+  .TenthLowerContext{
+  display: flex;
+  }
+
+
+
+
+  .LowerContextOne i{
+  font-size: 65px;
+  color: #C4C4C4;
+  margin-top: 85px;
+  }
+  
+
+
+
+
+
+  .ContextCircleWhite i{
+  font-size: 72px;
+  color:white;
+  margin-top: 82px;
+  margin-left: -20px;
+  }
+  
+
+
+  .LowerContextTwo{
+  margin-top: -150px;
+  }
+
+
+
+
+  .LowerContextTwo i{
+  font-size: 65px;
+  color: #C4C4C4;
+  margin-left: -17px;
+  }
+
+
+
+
+
+  .ContextCircleWhiteTwo i{
+  font-size: 72px;
+  color:white;
+  margin-top: 82px;
+  margin-left: -33px;
+  }
+
+
+
+
+
+  .LowerContextThree{
+  margin-top: -150px;
+  }
+  
+  
+  
+  
+  .LowerContextThree i{
+  font-size: 65px;
+  color: #C4C4C4;
+  margin-left: -30px;
+  }
+
+
+
+
+
+ .ContentLowerOne{
+  display: flex;
+  margin-top: 105px;
+  margin-left: 55px;
+ }
+
+
+
+  
+
+
+  .LowerPartOne h3{
+  font-size: 25px; 
+  font-weight: 900;
+  color: #43E7DF;
+  }
+
+
+
+
+
+
+  .LowerPartTwo i{
+  font-size: 25px;
+  color: #DADBE2;
+  margin-left: 20px;
+  margin-top: -2px;
+  }
+
+
+
+ span{
+  color: #FDB400;
+  font-size: 20px;
+  margin-left: 5px;
+ }
+
+
+
+
+ 
+
+
+
+ .ContentLowerTwo h3{
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "DM Sans", serif;
+  margin-top: 15px;
+  margin-left: 55px;
+  color: #645E76;
+ }
+
+
+
+
+
+ .TenthRightContext {
+  height: 258px;
+  width: 610px;
+  background: white;
+  border-radius: 25px;
+  margin-top: -890px;
+  margin-left: 885px;
+ }
+
+
+
+
+
+
+ .RightContentOne h3{
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #6C6E81;
+  padding-top: 80px;
+  margin-left: 60px;
+ }
+
+
+
+
+
+
+ .RightContentTwo{
+  display: flex;
+ }
+
+
+
+
+
+
+ .ContextTextOne h3{
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #30344E;
+  padding-bottom: 15px;
+  padding-top: 65px;
+  margin-left: 60px;
+ }
+
+
+ 
+
+
+ .ContextTextOne h4{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #30344E;
+  margin-left: 60px;
+ }
+
+
+
+
+
+ .ContextStarOne{
+  margin-top: 90px;
+  margin-left: 155px;
+ }
+
+
+
+
+
+
+ .TenthRightCircle{
+ margin-top: -580px;
+ }
+
+
+
+
+
+
+ .TenthRightCircle i{
+ font-size: 140px;
+ color: #C4C4C4;
+ margin-left: 925px;
+ }
+
+
+
+
+
+ .TenthRightContextOne {
+  height: 330px;
+  width: 610px;
+  background: white;
+  border-radius: 25px;
+  margin-top: -55px;
+  margin-left: 885px;
+ }
+
+
+
+
+ 
+ .RightContentTwo p{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #6C6E81;
+  padding-top: 80px;
+  margin-left: 60px;
+  margin-right: 39px;
+  line-height: 30px;
+ }
+
+
+
+
+
+ .TenthRightCircleOne{
+  margin-top: -100px;
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+  .TenthRightCircleOne i{
+  font-size: 140px;
+  color: #C4C4C4;
+  margin-left: 925px;
+  }
+
+
+
+
+  .TenthRightContextTwo {
+  height: 274px;
+  width: 610px;
+  background: white;
+  border-radius: 25px;
+  margin-top: -63px;
+  margin-left: 885px;
+  }
+
+
+
+
+
+
+  .RightContentThree p {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #6C6E81;
+  margin-top: 41px;
+  margin-left: 0px;
+  line-height: 30px;
+  margin-right: -490px;
+ }
+  
+
+
+
+
+  .RightContentThree{
+  margin-left: 925px;
+  margin-top: -218px;
+  }
+   
+
+
+
+
+ /* Second Last Header Part End */
+
+
+
+
+
+ /* Again Header Part Start */
+
+
+
+
+ #AgainPart{
+  margin-top: 0px;
+  padding-bottom: 150px;
+  background: #e5e5e5;
+ }
+
+
+
+
+
+  
+ .AgainBoxPart {
+  height: 360px;
+  width: 1330px;
+  background: #3639A4;
+  margin-top: 162px;
+  margin-left: 0px;
+  border-radius: 40px;
+  margin-right: 0px;
+  }
+
+
+ 
+
+  .AgainContent img{
+  margin-top: -125px;
+  margin-left: -55px;
+  }
+
+
+
+
+  .AgainBoxImage img {
+  margin-top: 55px;
+  margin-left: -11px;
+ }
+
+
+
+ .AgainBoxImageOne img {
+  margin-top: -1px;
+  margin-left: -11px;
+ }
+
+
+
+
+ .AgainContent h3 {
+  font-size: 46px;
+  font-weight: 700;
+  font-family: "Chivo", serif;
+  color: #ffffff;
+  margin-top: -240px;
+  margin-left: 75px;
+  margin-right: -140px;
+  line-height: 50px;
+  }
+
+
+
+
+  .AgainRightPart {
+  height: 90px;
+  width: 290px;
+  background: #43E7DF;
+  margin-top: 130px;
+  margin-left: 365px;
+  border-radius: 12px;
+ }
+
+
+
+
+ .AgainRightPart h3{
+ font-size: 25px;
+ font-weight: 500;
+ font-family: "DM Sans", serif;
+ color: #2C2643;
+ padding-top: 35px;
+ margin-left: 70px;
+ }
+
+
+
+
+
+ /* Again Header Part End */
+
+
+
+
+
+
+ /* Final Header Part Start */
+
+
+
+  #FinalPart{
+  padding-top: 60px;
+  padding-bottom: 150px;
+  background: #F7F7FC;
+  margin-top: -315px;
+  }
+
+
+
+
+
+  .FinalContent img{
+  margin-top: 340px;
+  margin-left: -100px;
+  }
+
+
+
+
+  .FinalContent h3{
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  color: #645E76;
+  margin-top: 45px;
+  margin-left: -105px;
+  line-height: 35px;
+  }
+
+
+
+
+
+
+  .FinalCircleLogo{
+  display: flex;
+  }
+
+
+
+
+  .FinalLogoOne i{
+  color: #EEEEEE;
+  font-size: 65px;
+  margin-top: 45px;
+  margin-left: -115px;
+  }
+
+
+
+
+ .FinalIconOne{
+ margin-top: -94px;
+ }
+
+
+
+ 
+ .FinalIconOne i{
+  font-size: 30px;
+  color: #645E76;
+  margin-left: -96px;
+ }
+
+
+
+
+
+ .FinalLogoTwo i{
+  color: #EEEEEE;
+  font-size: 65px;
+  margin-top: 45px;
+  margin-left: -40px;
+  }
+
+
+
+
+ .FinalIconTwo{
+ margin-top: -94px;
+ }
+
+
+
+ 
+ .FinalIconTwo i{
+  font-size: 30px;
+  color: #645E76;
+  margin-left: -22px;
+ }
+
+
+
+
+ .FinalLogoThree i{
+  color: #EEEEEE;
+  font-size: 65px;
+  margin-top: 45px;
+  margin-left: 10px;
+  }
+
+
+
+
+ .FinalIconThree{
+ margin-top: -94px;
+ }
+
+
+
+ 
+ .FinalIconThree i{
+  font-size: 30px;
+  color: #645E76;
+  margin-left: 30px;
+ }
+
+
+
+
+
+ .FinalLogoFour i{
+  color: #EEEEEE;
+  font-size: 65px;
+  margin-top: 45px;
+  margin-left: 10px;
+  }
+
+
+
+
+ .FinalIconFour{
+ margin-top: -94px;
+ }
+
+
+
+ 
+ .FinalIconFour i{
+  font-size: 30px;
+  color: #645E76;
+  margin-left: 29px;
+ }
+
+
+
+ 
+ .FinalContentOne{
+  margin-top: 360px;
+ }
+
+
+
+ .FinalContentOne h3{
+ color: #2C2643;
+ font-size: 25px;
+ font-weight: 500;
+ font-family: "DM Sans", serif;
+ padding-bottom: 40px;
+ }
+
+
+
+ .FinalContentOne h4{
+  color: #645E76;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  margin-top: 25px;
+ }
+ 
+
+
+ .FinalContentTwo{
+  margin-top: 355px;
+  margin-left: 115px;
+ }
+
+
+
+ .FinalContentTwo h3{
+ color: #2C2643;
+ font-size: 25px;
+ font-weight: 500;
+ font-family: "DM Sans", serif;
+ padding-bottom: 40px;
+ }
+
+
+
+ .FinalContentTwo h4{
+  color: #645E76;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  margin-top: 25px;
+  margin-right: -125px;
+ }
+
+
+
+
+
+ .FinalContentThree{
+  margin-top: 355px;
+  margin-left: 175px;
+ }
+
+
+
+ .FinalContentThree h3{
+ color: #2C2643;
+ font-size: 25px;
+ font-weight: 500;
+ font-family: "DM Sans", serif;
+ padding-bottom: 40px;
+ }
+
+
+
+ .FinalContentThree h4{
+  color: #645E76;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  margin-top: 25px;
+  margin-right: -225px;
+ }
+
+
+
+ .FinalContentFour{
+  margin-top: 352px;
+  margin-left: 250px;
+ }
+
+
+
+ .FinalContentFour h3{
+ color: #2C2643;
+ font-size: 25px;
+ font-weight: 500;
+ font-family: "DM Sans", serif;
+ padding-bottom: 40px;
+ margin-right: -190px;
+ }
+
+
+
+ .FinalContentFour p{
+  color: #645E76;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "DM Sans", serif;
+  margin-top: 18px;
+  margin-right: -315px;
+  line-height: 35px;
+  margin-left: 0px;
+ }
+
+
+
+ .FinalContentFive{
+ height: 70px;
+ width: 415px;
+ background: white;
+ margin-top: 55px;
+ margin-left: 245px;
+ border-radius: 12px;
+ border: 1px solid #D2D2D2;
+ }
+
+
+
+ .FinalContentFive h3{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Poppins", serif;
+  color: #A1A2A3;
+  margin-top: 25px;
+  margin-left: 30px;
+ }
+
+
+ .FinalContentSix {
+  height: 55px;
+  width: 75px;
+  background: #3639A4;
+  border-radius: 12px;
+  margin-top: -62px;
+  margin-left: 570px;
+ }
+
+
+  
+ .FinalContentSix img {
+  width: 50%;
+  margin-top: 9px;
+  margin-left: 17px;
+ }
+
+
+
+
+ .FinalLine {
+  height: 3px;
+  width: 1765px;
+  background: #D2D2D2;
+  margin-top: 178px;
+  margin-left: -110px;
+ }
+
+
+
+  .FinalLineText h3{
+  color: #645E76;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  margin-top: 45px;
+  margin-left: -115px;
+  }
+
+
+
+ /* Final  Header Part End */
+
+
+
+
+ 
+ /* Header Part Start */
+ /* Header Part End */
+
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
+ 
+ /* Header Part Start */
+ /* Header Part End */
